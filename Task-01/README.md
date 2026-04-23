@@ -83,3 +83,6 @@ sudo systemctl restart ssh
 The task was implemented on a local Ubuntu system by configuring it as a server and accessing it via SSH.
 
 ---
+## 🔐 SSH Setup Output
+
+![SSH Output](../images/task1.png)

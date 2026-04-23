@@ -74,3 +74,6 @@ This task implements Principle of Least Privilege, ensuring that only the requir
 - Access restricted successfully
 - Verification completed
 
+## 🔒 Permission Verification
+
+![Permissions](../images/task4.png)

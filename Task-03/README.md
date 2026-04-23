@@ -75,3 +75,7 @@ YYYY-MM-DD HH:MM:SS | CRON RUNNING
 - Bash scripting
 - Log management
 - System debugging
+
+## 📊 Monitoring Logs
+
+![Monitoring Logs](../images/task3.png)

@@ -67,3 +67,7 @@ Expected Output:
 - SSH restricted to a specific IP
 - Required services allowed
 - Unauthorized access blocked
+
+## 🔥 Firewall Configuration
+
+![Firewall](../images/task5.png)

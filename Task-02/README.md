@@ -109,3 +109,6 @@ This task demonstrates:
 
 
 ---
+## 🐳 Docker Deployment Output
+
+![Docker Output](../images/task2.png)
